@@ -13,7 +13,7 @@ The implementation includes the simulation of a dataset, execution of both algor
 ## Project Structure
 
 ```bash
-/Reinforcement-Learning-Algorithms
+/Reinforcement-Learning-Algorithms-Implementation
     Reinforcement.ipynb
     README.md
 ```
@@ -44,7 +44,7 @@ https://github.com/yugeshsivakumar/Reinforcement-Learning-Algorithms-Implementat
 Navigate to the project directory:
 
 ```
-cd Reinforcement-Learning-Algorithms
+cd Reinforcement-Learning-Algorithms-Implementation
 
 ```
 
